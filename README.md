@@ -1,1 +1,1 @@
-# DDMOR-TPDS
+This repository contains the code for our paper: "Data-Driven Model Order Reduction for T-Product-Based Dynamical Systems" by Shenghan Mei, Ziqin He, Yidan Mei, Xin Mao, Anqi Dong, Ren Wang, and Can Chen.
