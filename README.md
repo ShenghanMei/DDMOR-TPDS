@@ -27,7 +27,7 @@ The repo includes reproducible experiments, including an MNIST-based case study.
 - `src/`
   - `algorithms/` — core methods (`T_BT.m`, `BT.m`, `T_POD.m`, `POD.m`, `T_ERA.m`, `ERA.m`)
   - `scripts/` — runnable demos
-    - `test.m` — runs BT/T-BT, POD/T-POD, ERA/T-ERA; reports runtime, parameter counts, and relative errors
+    - `Test.m` — runs BT/T-BT, POD/T-POD, ERA/T-ERA; reports runtime, parameter counts, and relative errors
     - `scaling_TBT_BT.m` — scaling analysis for T-BT vs BT
 
 - `experiments/`
