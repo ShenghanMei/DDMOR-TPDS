@@ -1,4 +1,4 @@
-# experiments
+# Experiments
 
 Self-contained experiment folders (data + scripts) that reproduce the figures in the paper.
 
