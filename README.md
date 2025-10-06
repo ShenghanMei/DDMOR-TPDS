@@ -15,7 +15,7 @@ The repo includes reproducible experiments, including an MNIST-based case study.
 
 ## Requirements
 
-- MATLAB **R2021a** or newer
+- MATLAB
 - [Tensor-Tensor Product Toolbox](https://github.com/canyilu/tensor-tensor-product-toolbox)
 
 > Make sure the toolbox is on your MATLAB path before running experiments.
@@ -27,11 +27,11 @@ The repo includes reproducible experiments, including an MNIST-based case study.
 - `src/`
   - `algorithms/` — core methods (`T_BT.m`, `BT.m`, `T_POD.m`, `POD.m`, `T_ERA.m`, `ERA.m`)
   - `scripts/` — runnable demos
-    - `test.m` — runs BT/T-BT, POD/T-POD, ERA/T-ERA; reports runtime, parameter counts, and errors
+    - `test.m` — runs BT/T-BT, POD/T-POD, ERA/T-ERA; reports runtime, parameter counts, and relative errors
     - `scaling_TBT_BT.m` — scaling analysis for T-BT vs BT
 
 - `experiments/`
-  - `mnist/` — MNIST reconstruction example (`Digit1_Frames16.mat`, `Digit1.mat`, `test_mnist_TERA_ERA.m`)
+  - `mnist/` — MNIST reconstruction example (`Digit1_Frames16.mat`, `Digit1.mat`, `mnist1_tera_era_reconstruction.m`)
 
 
 ---
