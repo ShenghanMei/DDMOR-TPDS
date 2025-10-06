@@ -3,11 +3,11 @@
 This repository accompanies the paper **“Data-Driven Model Order Reduction via T-SVD”**  
 by Shenghan Mei, Ziqin He, Yidan Mei, Xin Mao, Anqi Dong, Ren Wang, and Can Chen.
 
-We provide T-product–based methods and their matrix (unfolded) counterparts:
+We provide T-product–based methods and their matrix-based counterparts:
 
 - **T-Balanced Truncation (T-BT)** and **Balanced Truncation (BT)**
-- **T-Balanced Proper Orthogonal Decomposition (T-BPOD)** and **Balanced POD (BPOD)**
-- **T-Eigensystem Realization Algorithm (T-ERA)** and **ERA**
+- **T-Balanced Proper Orthogonal Decomposition (T-BPOD)** and **Balanced Proper Orthogonal Decomposition (BPOD)**
+- **T-Eigensystem Realization Algorithm (T-ERA)** and **Eigensystem Realization Algorithm (ERA)**
 
 The repo includes reproducible experiments, including an MNIST-based case study.
 
