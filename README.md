@@ -32,7 +32,6 @@ The repo includes reproducible experiments, including an MNIST-based case study.
 
 - `experiments/`
   - `mnist/` — MNIST reconstruction example (`Digit1_Frames16.mat`, `Digit1.mat`, `test_mnist_TERA_ERA.m`)
-  - `benchmarks/` — scaling/timing studies (e.g., `test_scaling_TBT_BT.m`)
 
 
 ---
