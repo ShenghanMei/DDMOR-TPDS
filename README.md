@@ -28,7 +28,6 @@ The repo includes reproducible experiments, including an MNIST-based case study.
   - `algorithms/` — core methods (`T_BT.m`, `BT.m`, `T_POD.m`, `POD.m`, `T_ERA.m`, `ERA.m`)
   - `scripts/` — runnable demos
     - `Test.m` — runs BT/T-BT, POD/T-POD, ERA/T-ERA; reports runtime, parameter counts, and relative errors
-    - `scaling_TBT_BT.m` — scaling analysis for T-BT vs BT
 
 - `experiments/`
   - `mnist/` — MNIST reconstruction example (`Digit1_Frames16.mat`, `Digit1.mat`, `mnist1_tera_era_reconstruction.m`)
